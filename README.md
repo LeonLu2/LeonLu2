@@ -1,6 +1,6 @@
 <p align="center">
   <h1>Leon Lu (Currently seeking 2024 summer interns)</h1>
-  <img src="https://github.com/LeonLu2/LeonLu2/blob/main/career%20pic%20leon.jpg" width="400">
+  <img src="https://github.com/LeonLu2/LeonLu2/blob/main/IMG_0224.jpg" width="600">
 </p>
 
 # 👋 Hi there!
