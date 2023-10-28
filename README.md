@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Leon Lu (Currently seeking 2024 summer interns)</h1>
+  <h1>Leon Lu</h1>
   <img src="https://github.com/LeonLu2/LeonLu2/blob/main/profile%20photo.jpg" width="600">
 </p>
 
