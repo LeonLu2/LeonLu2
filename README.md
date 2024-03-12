@@ -8,6 +8,12 @@
 
 I'm Leon, a dedicated software engineer and a Master's student in Computer Engineering at Carnegie Mellon University. With a rich background in various programming languages and frameworks, I'm passionate about developing innovative software solutions.
 
+# 👨‍💻 Experience
+
+For the past summer, I've honed my skills as a Software Engineer Intern at Whole in One Health. Here, I took the initiative to construct the company's first-ever blog page and online store, and I spearheaded the integration of cloud-based solutions, enhancing the digital capabilities of this health-oriented firm. As a deeply committed full-stack engineer, I seamlessly blend technical prowess with creativity, consistently aiming to deliver software solutions that not only meet but also exceed client and end-user expectations. Every project I undertake is approached with a detail-oriented mindset, where I continuously aim to optimize code, enrich the user experience, and stay aligned with the latest industry trends and standards. 
+
+My experience across Frontend, Backend, and Cloud Services has granted me an adaptive problem-solving aptitude, and I'm well-versed in utilizing tools and technologies like Java, Spring Boot, React, along with various databases, middlewares, and cloud services. This broad spectrum of expertise provides me with a holistic view of the software development lifecycle. But beyond the code and tech, I deeply value and prioritize effective communication, always emphasizing the importance of collaboration with cross-functional teams in my projects.
+
 
 # 🛠️ Skills
 
