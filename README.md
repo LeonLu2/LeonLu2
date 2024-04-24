@@ -17,7 +17,7 @@ My experience across Frontend, Backend, and Cloud Services has granted me an ada
 
 # 🛠️ Skills
 
-**Languages**: Java, Python, JavaScript, SQL, C, C++, HTML, CSS, Markdown, MATLAB, Bash Scripts  
+**Languages**: Java, Python, JavaScript, SQL, C, C++, HTML, CSS, MATLAB, Bash Scripts  
 
 **Frameworks & Libraries**: Spring Boot, React.js, React Native, Vue.js, Next.js, Node.js, Spring MVC, Pytest, Bootstrap  
 
