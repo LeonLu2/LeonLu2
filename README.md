@@ -6,23 +6,32 @@
 # 👋 Hi there!
 
 
-I'm Leon, a dedicated software engineer and a Master's student in Computer Engineering at Carnegie Mellon University. With a rich background in various programming languages and frameworks, I'm passionate about developing innovative software solutions.
+I'm Leon Lu, a Software Engineer with a background in backend systems, cloud-native services, and full-stack application development. I hold a Master's degree in Computer Engineering from Carnegie Mellon University and currently work on enterprise software systems involving large-scale data workflows, APIs, cloud services, and distributed architectures.
+
+I enjoy building reliable software that solves real business problems, whether that means improving API performance, designing fault-tolerant data pipelines, or integrating AI-assisted workflows into the development process.
 
 # 👨‍💻 Experience
 
-My experience across Frontend, Backend, and Cloud Services has granted me an adaptive problem-solving aptitude, and I'm well-versed in utilizing tools and technologies like Java, Spring Boot, React, along with various databases, middlewares, and cloud services. This broad spectrum of expertise provides me with a holistic view of the software development lifecycle. But beyond the code and tech, I deeply value and prioritize effective communication, always emphasizing the importance of collaboration with cross-functional teams in my projects.
+My experience spans backend engineering, full-stack development, cloud services, and data platforms. I primarily work with C#, .NET, RESTful APIs, SQL/NoSQL databases, messaging systems, and cloud platforms such as Azure and AWS.
+
+In production environments, I have worked on scalable microservices, data migration workflows, API performance improvements, event-driven systems, and enterprise tools used by cross-functional teams. I care about writing maintainable code, understanding business context, and collaborating closely with product, engineering, and stakeholder teams.
+
+I also use modern AI development tools thoughtfully to explore codebases, debug issues, draft implementation plans, improve documentation, and accelerate repetitive engineering tasks while keeping human judgment at the center of design, correctness, and maintainability.
 
 
 # 🛠️ Skills
 
-**Languages**: Java, Python, JavaScript, SQL, C, C++, HTML, CSS, MATLAB, Bash Scripts  
+**Languages**: C#, Java, Python, SQL, JavaScript, TypeScript, Bash, HTML, CSS  
 
-**Frameworks & Libraries**: Spring Boot, React.js, React Native, Vue.js, Next.js, Node.js, Spring MVC, Pytest, Bootstrap  
+**Backend & Frameworks**: .NET, ASP.NET Core, Entity Framework, Spring Boot, Node.js, RESTful APIs  
 
-**Databases**: MySQL, MongoDB, Redis  
+**Frontend**: React, Angular, Next.js, Vue.js, React Native, Bootstrap, Ant Design
 
-**Dev Tools & Cloud Platforms**: Git, AWS, GCP, Azure, Docker, Kubernetes, Maven, Linux, Windows, Jira, Postman, VS Code
+**Databases & Messaging**: SQL Server, PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Azure Service Bus
 
+**Cloud & DevOps**: Azure, AWS, Docker, Kubernetes, Terraform, Git, GitHub, CI/CD, Linux, Datadog
+
+**AI & Developer Tools**: Claude Code, GitHub Copilot, Azure OpenAI, LangGraph, MCP, VS Code, Postman, Jira
 
 
 
