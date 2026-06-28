@@ -48,7 +48,7 @@ I also use modern AI development tools thoughtfully to explore codebases, debug 
 
 # 📞 Contact Me
 
-📧 **Email**: [suhanl@andrew.cmu.edu](mailto:suhanl@andrew.cmu.edu)  
+📧 **Email**: [suhan.lu37@gmail.com](mailto:suhan.lu37@gmail.com)  
 
 🔗 **LinkedIn**: [Suhan Lu](https://www.linkedin.com/in/suhan-lu37/)  
 
